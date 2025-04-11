@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Tiago Diogo
-- 👀 I’m interested in improving my codding
-- 🌱 I’m currently studying at Minho University in Guimarães, Portugal
-- 💞️ I’m looking to share the projects I've done so far.
+## 👋 Hi, I’m Tiago Diogo
 
-<h3 align="left">Languages and Tools:</h3>
+- 👀 I’m interested in improving my coding skills  
+- 🌱 I’m currently studying at Minho University in Guimarães, Portugal  
+- 💞️ I’m looking to share the projects I've done so far  
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -25,12 +29,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoDiogo02&show_icons=true&locale=en&layout=compact" alt="TiagoDiogo02" /></p>
+---
 
+### 📊 GitHub Stats
 
-
-
-<!---
-josenovais97/josenovais97 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoDiogo02&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
