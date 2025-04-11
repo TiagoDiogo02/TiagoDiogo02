@@ -24,13 +24,10 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="josenovais97" /></p>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoDiogo02&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="TiagoDiogo02" /></p>
