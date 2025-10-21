@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Tiago Diogo
 
 - 👀 I’m interested in improving my coding skills  
-- 🌱 I’m currently studying at Minho University in Braga, Portugal  
-- 💞️ I’m looking to share the projects I've done so far  
+- 🌱 I’m currently studying at Minho University in Braga, Portugal
 
 ---
 
