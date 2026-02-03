@@ -38,6 +38,28 @@ VNFs (NFV), QoS mechanisms, overlay networks, network virtualization, router-lev
 
 ---
 
+### 📂 Selected Projects
+
+**Simulated Multi-ISP Network**  
+Academic project focused on the implementation of multiple ISP networks using dynamic routing protocols. The project involved configuring **OSPF, RIP, and BGP**, as well as applying **access lists** to filter neighbor advertisements and manipulate routing behavior.  
+Tools: CORE  
+Context: Computer Networks II course
+
+---
+
+**Overlay Network for Efficient Service Delivery**  
+Design and implementation of a basic network with the objective of building an efficient **overlay network** for multi-stream delivery to clients. A simple topology was deployed and complemented with **Python scripts** implementing servers, a bootstrapper, and overlay nodes to optimize bandwidth usage across network links.  
+Tools: CORE, Python  
+Context: Master’s course in Network and Service Engineering
+
+---
+
+**Quality of Service Using Virtual Network Functions (VNFs)**  
+Project focused on improving **Quality of Service (QoS)** through the deployment of multiple **Virtual Network Functions**. Four VNFs were implemented — **classifier, policer, access control (firewall), and monitor** — to classify, police, filter, and monitor network traffic and performance.  
+Tools: CORE, Python, Scapy, iptables  
+Context: Internet Engineering profile – Quality of Service course
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
