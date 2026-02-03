@@ -63,5 +63,5 @@ Context: Internet Engineering profile – Quality of Service course
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDiogo02&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDiogo02&layout=compact&theme=radical" />
 </p>
