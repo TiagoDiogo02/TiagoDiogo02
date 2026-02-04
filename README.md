@@ -39,7 +39,7 @@ VNFs (NFV), QoS mechanisms, overlay networks, network virtualization, router-lev
 
 ---
 
-### 📂 Selected Projects
+### 📂 Projects
 
 **Simulated Multi-ISP Network**  
 Academic project focused on the implementation of multiple ISP networks using dynamic routing protocols. The project involved configuring **OSPF, RIP, and BGP**, as well as applying **access lists** to filter neighbor advertisements and manipulate routing behavior.  
