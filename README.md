@@ -2,6 +2,8 @@
 
 I'm a **Computer Engineer student** at the **University of Minho (Braga, Portugal)**, currently specializing in the **Internet Engineering** and **Next Generation Networks** profiles, and a primary interest in **computer networks and communication protocols**.
 
+I hold a **Bachelor's degree in Telecommunications and Informatics Engineering** and have completed a **Professional Training Program in Cybersecurity**.
+
 ---
 ### 🌐 Networking Focus
 
