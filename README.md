@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Tiago Diogo
 
-I'm a **Informatics Engineer student** at the **University of Minho (Braga, Portugal)**, currently specializing in the **Internet Engineering** and **Next Generation Networks** profiles, and a primary interest in **computer networks and communication protocols**.
+I'm a **Computer Engineer student** at the **University of Minho (Braga, Portugal)**, currently specializing in the **Internet Engineering** and **Next Generation Networks** profiles, and a primary interest in **computer networks and communication protocols**.
 
 ---
 ### 🌐 Networking Focus
