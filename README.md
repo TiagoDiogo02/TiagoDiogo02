@@ -1,20 +1,18 @@
 ## 👋 Hi, I’m Tiago Diogo
 
-I'm a **Computer Engineer student** at the **University of Minho (Braga, Portugal)**, currently specializing in the **Internet Engineering** and **Next Generation Networks** profiles, and a primary interest in **computer networks and communication protocols**.
-
-I hold a **Bachelor's degree in Telecommunications and Informatics Engineering** and have completed a **Professional Training Program in Cybersecurity**.
+I hold a **Bachelor's degree in Telecommunications and Informatics Engineering** and have completed a **Professional Training Program in Cybersecurity**, and a primary interest in **computer networks and communication protocols**.
 
 ---
 ### 🌐 Networking Focus
 
-- Network simulation and emulation (Cisco Packet Tracer, CORE, EVE-NG)  
-- Network traffic analysis and debugging with Wireshark  
-- Socket-based communication between routers  
-- Virtual Network Functions (VNFs) for Quality of Service (QoS)  
+- Network simulation and emulation (**Cisco Packet Tracer, CORE, EVE-NG**)  
+- Network traffic analysis and debugging with **Wireshark**  
+- **Socket-based** communication between routers  
+- **Virtual Network Functions (VNFs)** for **Quality of Service (QoS)**  
 - Overlay network architectures  
 - Network experimentation and topology design
-- MPLS technology
-- Preparation for SDN and virtualized networks (Mininet)
+- **MPLS** technology
+- Preparation for **SDN and virtualized networks** (Mininet)
 
 ### 🛠️ Languages and Tools
 
