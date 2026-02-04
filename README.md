@@ -10,7 +10,8 @@ I'm a **Informatics Engineer student** at the **University of Minho (Braga, Port
 - Socket-based communication between routers  
 - Virtual Network Functions (VNFs) for Quality of Service (QoS)  
 - Overlay network architectures  
-- Network experimentation and topology design  
+- Network experimentation and topology design
+- MPLS technology
 - Preparation for SDN and virtualized networks (Mininet)
 
 ### 🛠️ Languages and Tools
